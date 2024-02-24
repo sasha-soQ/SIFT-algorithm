@@ -1,7 +1,7 @@
 # SIFT-algorithm
 ### Image Processing
 
-### 1. Produce rotated image by 15 degrees and 30 degrees.
+### 1. Produce rotated image by 15 degrees and 30 degrees
 
 *Original:*
 
@@ -15,7 +15,7 @@
 
 <img src=https://github.com/sasha-soQ/SIFT-algorithm/assets/109583554/e88f1de7-259b-4ccb-b2d7-4ab492555946 width=20% />
 
-### 2. Generate feature points of 3 images.
+### 2. Generate feature points of 3 images
 ### 3. Output result.
 
 *Original-Number of feature points:770*
@@ -30,7 +30,7 @@
 
 <img src=https://github.com/sasha-soQ/SIFT-algorithm/assets/109583554/58026747-8707-4321-b235-c20d8b7c66ab width=20% />
 
-### 3. Calculate matching points.
+### 3. Calculate matching points
 
 *Original & Rotate 15 degrees:*  
 matches: 388 / 53.9 %  
